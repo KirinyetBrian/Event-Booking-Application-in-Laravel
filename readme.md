@@ -1,4 +1,4 @@
-#Event Booking: Laravel 5.4 based system for event booking.
+#Event Booking App: Laravel 5.4 based system for event booking. ~Kirinyet Brian
 
 
 
