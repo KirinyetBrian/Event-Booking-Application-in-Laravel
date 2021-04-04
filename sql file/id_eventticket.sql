@@ -44,16 +44,12 @@ CREATE TABLE `events` (
 --
 
 INSERT INTO `events` (`id`, `title`, `description`, `start_time`, `venue`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(1, 'Zemlak LLC', 'Deleniti aut sunt iusto et necessitatibus. Ut minima molestiae est et porro. Quis sint sint vero unde voluptates aperiam aspernatur. Possimus voluptas cum iusto libero hic sed voluptatibus.', '1986-08-23 04:39:03', '38056 Esperanza Trail Apt. 550\nAnkundingbury, NM 42868-2612', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(2, 'Robel Inc', 'Sit voluptatem totam esse ipsa assumenda sed sequi. Velit quia ut nobis eligendi beatae. Dolor quibusdam nihil ut culpa quisquam. Iste unde in inventore incidunt dolor reprehenderit facere.', '2002-01-03 21:29:50', '600 Leffler Summit Suite 302\nKundeburgh, SC 99923-8620', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(3, 'Ullrich, Erdman and Schmeler', 'Qui nobis velit eaque porro. Praesentium maiores sunt est cupiditate. Omnis vitae est rem veritatis.', '2002-12-26 11:23:14', '555 Ernser Cove\nEast Yasminside, MT 61342', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(4, 'Rath Group', 'Sint doloribus ut ut nam dicta officia. Est id necessitatibus molestiae illum. Eius non repellat cupiditate et illum. Omnis velit doloribus odit.', '2012-04-08 09:14:28', '142 Bradtke Motorway\nMilesland, FL 34450', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(5, 'Bode-Stracke', 'Ut velit eum inventore dolorem sunt fuga necessitatibus. In similique ad voluptatibus et aliquam deserunt enim. Consequatur sit recusandae possimus id fuga ipsum consectetur eveniet.', '1974-07-19 11:46:58', '47971 Kurt Junction\nPort Sherwood, MA 73529', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(6, 'Jast, Goyette and Muller', 'Vel ut sit qui occaecati rerum ut. Assumenda beatae rem est excepturi deleniti. Accusamus deleniti ut voluptas. Praesentium blanditiis et modi aut ut quos iusto.', '1971-06-15 03:41:05', '8932 Rudolph Pine Suite 971\nLuciusland, NV 98072-2293', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(7, 'Doyle and Sons', 'Velit veritatis autem maiores maiores at amet non. Nam natus architecto velit nemo. Id et quis quae. Sed porro dolorum qui est rerum placeat.', '1984-02-05 21:44:04', '73670 Ledner Lodge Suite 292\nEast Bradyfort, DC 02070', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(8, 'Welch LLC', 'Voluptatem labore vel autem vitae. Veritatis distinctio reprehenderit qui qui dolorum autem explicabo. Omnis dolores dolor fugiat voluptates. Omnis debitis nam quo eveniet.', '1984-10-15 01:53:51', '631 Stark Locks Suite 053\nSouth Kamronview, WY 62308-2980', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(9, 'Carroll, Schamberger and O\'Hara', 'Velit architecto omnis pariatur incidunt sunt praesentium nihil. Amet est rerum fugit. Cumque velit ipsa nisi minus sunt.', '1975-01-14 08:16:20', '81892 Miller Point Apt. 507\nSouth Broderick, UT 70772-0431', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
-(10, 'Hansen Inc', 'Inventore aut voluptas sit illum soluta neque officiis. Quis rerum vero voluptatem quia. Doloribus sunt hic molestiae repudiandae ratione. Eum nulla fuga nihil est ab quia.', '1985-05-17 01:18:51', '1716 Green Alley Suite 099\nSouth Lennieshire, SC 00302', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL);
+(1, 'Saf', 'Birthday.', '1986-08-23 04:39:03', '38056 Esperanza Trail Apt. 550\nAnkundingbury, NM 42868-2612', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
+(2, 'Airtel', 'funeral.', '2002-01-03 21:29:50', '600 Leffler Summit Suite 302\nKundeburgh, SC 99923-8620', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
+(3, 'bidco', 'wedding', 'forth.', '2002-12-26 11:23:14', '555 Ernser Cove\nEast Yasminside, MT 61342', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
+(4, 'finlay', 'thanksgiving.', '2012-04-08 09:14:28', '142 Bradtke Motorway\nMilesland, FL 34450', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
+(5, 'kra', 'end year.', '1974-07-19 11:46:58', '47971 Kurt Junction\nPort Sherwood, MA 73529', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL),
+(6, 'Jast, Goyette and Muller', 'yee.', '1971-06-15 03:41:05', '8932 Rudolph Pine Suite 971\nLuciusland, NV 98072-2293', '2019-06-11 16:39:15', '2019-06-11 16:39:15', NULL);
 
 -- --------------------------------------------------------
 
